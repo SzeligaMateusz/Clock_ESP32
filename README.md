@@ -10,10 +10,12 @@
 ## Połączenie z WI-FI:
 utwórz punkt dostępu SSID: `ESP32-AP` Hasło: `12345678` 
 
-## Zasada działania:
+### Zasada działania:
 - ESP łączy się z tempus1.gum.gov.pl lub tempus2.gum.gov.pl ("https://www.gum.gov.pl/pl/dla-biznesu/uslugi/zegar/524,Zegar.html");
 - Pobiera dane do zmiennych a następnie ropoczyna lokalne odliczanie bez udziału serweru i wi-fi;
-- 
+
 > [!TIP]
 > Jeśli zegar po podłączeniu do internetu zaczyna odliczać od 0 oznacza że serwer odmówił udzielenia informacji, wystarczy zresetować esp przyciskiem `EN`;
--
+
+
+## Zmiana Obrazu
