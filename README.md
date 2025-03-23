@@ -33,6 +33,6 @@ Ostatnim krokiem jest zmiana koloru zdefiniowanego w `#define ORANGE 0xFD20`.
 > ESP-32 posiada ograniczone miejsce w pamieci, najlepiej zastosować kartę SD ale w przypadku tego modelu wyświetlacza jest to nie możliwie.
 
 > [!CAUTION]
-> UWAGA Github uciął kawałek końcówki kodu!
+> UWAGA Github uciął kawałek końcówki kodu! (Jeśli ktoś potrzebuje kodu proszę utworzyć prośbę)
 
 
